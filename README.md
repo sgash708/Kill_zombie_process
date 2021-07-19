@@ -13,3 +13,7 @@ root     11150 11146  0  6月30 ?      00:00:00 [sh] <defunct>
 ```
 
 それを解決するために、作りました。
+
+# ref
+
+https://qiita.com/sgash708/items/acc850ee45d9190874bd
